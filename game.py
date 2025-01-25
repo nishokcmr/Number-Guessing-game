@@ -15,4 +15,4 @@ elif(random.choice(list1) != guess_number):
     if(random.choice(list1) == guess_number1):
         print("You guessed it!")
     else:
-        print("You lost!")
+        print("You lost!, Try again")
